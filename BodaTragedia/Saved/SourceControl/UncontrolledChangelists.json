@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PC/OneDrive/Documentos/GitHub/Multiplayer_P3/BodaTragedia/Content/Miguel/MainMenu.umap",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/Multiplayer_P3/BodaTragedia/Content/Miguel/WBI_Menu.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/Multiplayer_P3/BodaTragedia/Content/Miguel/WBI_Options.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/Multiplayer_P3/BodaTragedia/Content/Miguel/WBI_Pause.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/Multiplayer_P3/BodaTragedia/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/Multiplayer_P3/BodaTragedia/Content/Miguel/sad_.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/Multiplayer_P3/BodaTragedia/Content/Miguel/wedding_Sprite.uasset",
+				"C:/Users/PC/OneDrive/Documentos/GitHub/Multiplayer_P3/BodaTragedia/Content/Miguel/BP_MenuGameMode.uasset"
+			]
+		}
+	]
+}
