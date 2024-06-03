@@ -1,0 +1,6 @@
+2024/06/02-15:43:35.558 4754 Creating DB C:/Users/Feli22/Documents/GitHub/Multiplayer_P3/BodaTragedia/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/06/02-15:43:35.770 4754 Reusing MANIFEST C:/Users/Feli22/Documents/GitHub/Multiplayer_P3/BodaTragedia/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/02-15:45:48.373 4754 Level-0 table #5: started
+2024/06/02-15:45:48.461 4754 Level-0 table #5: 1167 bytes OK
+2024/06/02-15:45:48.513 4754 Delete type=0 #3
+2024/06/02-15:45:48.532 4754 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
