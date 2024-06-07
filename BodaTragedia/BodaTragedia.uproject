@@ -16,11 +16,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "BookMenu",
-			"Enabled": true,
-			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/a88c635f71bd42a680592c8ec2e91e32"
-		},
-		{
 			"Name": "SkeletalMeshModelingTools",
 			"Enabled": true
 		}
